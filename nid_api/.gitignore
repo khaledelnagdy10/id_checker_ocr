@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+debug_*.jpg
+temp_*
+.DS_Store
+.idea/
+.vscode/
+venv310/
